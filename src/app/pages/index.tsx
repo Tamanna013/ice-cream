@@ -20,9 +20,7 @@ export default function Home() {
       <Cursor />
       <Navigation />
       <main>
-        <Hero />
         <Flavors />
-        <IceCreamStory />
         <IceCreamShopLocator />
         <FlavorCreations />
       </main>

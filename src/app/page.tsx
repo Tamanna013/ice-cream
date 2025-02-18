@@ -1,7 +1,6 @@
 "use client";
 import Head from 'next/head';
 import Hero from './components/Hero';
-import Flavors from './components/Flavors';
 import IceCreamStory from './components/IceCreamStory';
 import IceCreamShopLocator from './components/IceCreamShopLocator';
 import FlavorCreations from './components/UserFlavorCreationPage';
@@ -21,7 +20,6 @@ export default function Home() {
       <Navigation />
       <main>
         <Hero />
-        <Flavors />
         <IceCreamStory />
         <IceCreamShopLocator />
         <FlavorCreations />

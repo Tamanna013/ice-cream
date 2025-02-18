@@ -17,6 +17,13 @@ export default function IceCreamStory() {
           {/* Early Beginnings Card */}
           <div className="bg-pink-100 p-6 rounded-xl shadow-md hover:shadow-lg transition-all duration-300">
             <h3 className="text-2xl font-semibold text-pink-800">Early Beginnings</h3>
+            <div className="relative mb-4">
+              <img
+                src="/pic10.webp"
+                alt="Early Ice Cream"
+                className="w-full h-48 object-cover rounded-lg"
+              />
+            </div>
             <p className="text-gray-700 mt-2">
               The first known ice cream was made in ancient China with snow, milk, and rice. 
               It wasn't until the 17th century that it became popular in Europe.
@@ -26,6 +33,13 @@ export default function IceCreamStory() {
           {/* Modern Ice Cream Card */}
           <div className="bg-pink-100 p-6 rounded-xl shadow-md hover:shadow-lg transition-all duration-300">
             <h3 className="text-2xl font-semibold text-pink-800">Modern Day Ice Cream</h3>
+            <div className="relative mb-4">
+              <img
+                src="/pic11.jpeg"
+                alt="Modern Ice Cream"
+                className="w-full h-48 object-cover rounded-lg"
+              />
+            </div>
             <p className="text-gray-700 mt-2">
               Today, ice cream comes in countless flavors and styles, from traditional vanilla 
               to crazy concoctions like cotton candy and bubblegum.
