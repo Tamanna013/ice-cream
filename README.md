@@ -25,3 +25,9 @@ Welcome to the Ice Cream Story – a beautifully designed website that I made fo
    npm run dev
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.<br>
+<br><br>
+![Alt: img1](page1.png)
+![Alt: img2](page2.png)
+![Alt: img3](page3.png)
+![Alt: img4](page4.png)
+![Alt: img5](page5.png)
