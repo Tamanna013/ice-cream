@@ -4,8 +4,9 @@ Welcome to the Ice Cream Story – a beautifully designed website that I made fo
 
 ## 🚀 Tech Stack
 
-- Frontend: Next.js (React + TypeScript)<br>
+- Frontend: Next.js (Next.js 14 + TypeScript)<br>
 - Styling: Tailwind CSS<br>
+- Framer Motion – Smooth animations & interactions<br>
 - Maps API: Used for locating ice cream shops<br>
 
 ## 🛠 Installation & Setup
